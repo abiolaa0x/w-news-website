@@ -83,12 +83,11 @@ Open the website in any browser.
 w-news-website/
 │
 ├── assets/
-│   └── images/          # All images used in the project
-│   └── ...              # (Optional: other assets like icons, logos)
-├── index.html           # Main HTML file
-├── style.css            # Main CSS stylesheet
-├── script.js            # JavaScript for hamburger menu (optional)
-└── README.md            # Project documentation
+│   └── images/          
+├── index.html           
+├── style.css            
+├── script.js       
+└── README.md
 ```
 
 ## Contribution
