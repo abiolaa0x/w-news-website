@@ -123,6 +123,6 @@ This project is open source and available under the MIT License.
 ## Contact
 Created by abiola0x – feel free to reach out!
 
-- Email: www.amujonathan@gmail.com
-- GitHub: abiolaa0x
-- Twitter: @abiola0x
+- Email: [www.amujonathan@gmail.com](mailto:www.amujonathan@gmail.com)
+- GitHub: [abiolaa0x](https://github.com/abiolaa0x)
+- Twitter: [abiola0x](https://www.x.com/abiola0x)
